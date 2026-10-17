@@ -1,0 +1,9 @@
+{
+  "name": "WhatsApp Web Chat",
+  "description": "A real-time WhatsApp-style web messaging app for seamless chatting with friends via email and username.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
